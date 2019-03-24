@@ -1,0 +1,9 @@
+#git rm --cached *.JPG
+*.JPG
+*.jpg
+*.tg
+*.rar
+*/mnist/*
+.ipynb_checkpoints
+.idea
+.git
